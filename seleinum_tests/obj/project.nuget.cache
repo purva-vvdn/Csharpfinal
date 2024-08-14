@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAF8KqghjgAmiJhte1micGa8oWmrktLUjD4MAyV0Cji7J6HfRnSmwY92I7BVj/BCI87RFMPdWAtKWCbvBsSM6g==",
+  "success": true,
+  "projectFilePath": "/home/purva/Documents/Csharpefinal/seleinum_tests/seleinum_tests.csproj",
+  "expectedPackageFiles": [
+    "/home/purva/.nuget/packages/microsoft.codecoverage/17.10.0-preview-24080-01/microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512",
+    "/home/purva/.nuget/packages/microsoft.net.test.sdk/17.10.0-preview-24080-01/microsoft.net.test.sdk.17.10.0-preview-24080-01.nupkg.sha512",
+    "/home/purva/.nuget/packages/microsoft.testplatform.objectmodel/17.10.0-preview-24080-01/microsoft.testplatform.objectmodel.17.10.0-preview-24080-01.nupkg.sha512",
+    "/home/purva/.nuget/packages/microsoft.testplatform.testhost/17.10.0-preview-24080-01/microsoft.testplatform.testhost.17.10.0-preview-24080-01.nupkg.sha512",
+    "/home/purva/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/purva/.nuget/packages/nunit/4.0.1/nunit.4.0.1.nupkg.sha512",
+    "/home/purva/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/home/purva/.nuget/packages/selenium.support/4.17.0/selenium.support.4.17.0.nupkg.sha512",
+    "/home/purva/.nuget/packages/selenium.webdriver/4.17.0/selenium.webdriver.4.17.0.nupkg.sha512",
+    "/home/purva/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
