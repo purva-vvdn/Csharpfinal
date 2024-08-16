@@ -38,4 +38,4 @@ COPY --from=build /app/out .
 #     dpkg -i google-chrome-stable_current_amd64.deb || apt-get -f install -y && \
 #     rm google-chrome-stable_current_amd64.deb
 
-ENTRYPOINT ["dotnet","/out/seleinum_tests.dll"]
+ENTRYPOINT ["dotnet","test"]
