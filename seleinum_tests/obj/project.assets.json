@@ -782,19 +782,19 @@
     ]
   },
   "packageFolders": {
-    "/home/purva/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/purva/Documents/Csharpefinal/seleinum_tests/seleinum_tests.csproj",
+      "projectUniqueName": "/app/seleinum_tests/seleinum_tests.csproj",
       "projectName": "seleinum_tests",
-      "projectPath": "/home/purva/Documents/Csharpefinal/seleinum_tests/seleinum_tests.csproj",
-      "packagesPath": "/home/purva/.nuget/packages/",
-      "outputPath": "/home/purva/Documents/Csharpefinal/seleinum_tests/obj/",
+      "projectPath": "/app/seleinum_tests/seleinum_tests.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/app/seleinum_tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/purva/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -855,7 +855,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.423/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.425/RuntimeIdentifierGraph.json"
       }
     }
   }
